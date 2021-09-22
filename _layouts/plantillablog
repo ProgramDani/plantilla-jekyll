@@ -4,7 +4,7 @@
 
   <head>
     <meta charset="utf-8">
-    <title>{{page.title}}</title>
+    <title>{{https://github.com/ProgramDani/plantilla-jekyll/blob/master/blog.html}}</title>
     <meta name="author" content="">
     <meta name="description" content="">
   </head>
@@ -25,6 +25,7 @@
 
     <section>
       {{content}}
+      {{post.date}}
     </section>
 
     <footer>
